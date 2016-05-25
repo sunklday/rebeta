@@ -35,7 +35,34 @@
             <div class="thumbnail">
                 <img src="resources/images/a.jpg" alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
+                    <h5>Thumbnail label</h5>
+                    <p><a href="http://taobao.com" >Button</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <div class="thumbnail">
+                <img src="resources/images/a.jpg" alt="...">
+                <div class="caption">
+                    <h5>Thumbnail label</h5>
+                    <p><a href="https://taobao.com" >Button</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <div class="thumbnail">
+                <img src="resources/images/a.jpg" alt="...">
+                <div class="caption">
+                    <h5>Thumbnail label</h5>
+                    <p><a href="http://m.taobao.com" >Button</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <div class="thumbnail">
+                <img src="resources/images/a.jpg" alt="...">
+                <div class="caption">
+                    <h5>Thumbnail label</h5>
                     <p><a href="#" >Button</a></p>
                 </div>
             </div>
@@ -44,7 +71,7 @@
             <div class="thumbnail">
                 <img src="resources/images/a.jpg" alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
+                    <h5>Thumbnail label</h5>
                     <p><a href="#" >Button</a></p>
                 </div>
             </div>
@@ -53,7 +80,7 @@
             <div class="thumbnail">
                 <img src="resources/images/a.jpg" alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
+                    <h5>Thumbnail label</h5>
                     <p><a href="#" >Button</a></p>
                 </div>
             </div>
@@ -62,34 +89,7 @@
             <div class="thumbnail">
                 <img src="resources/images/a.jpg" alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p><a href="#" >Button</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-6">
-            <div class="thumbnail">
-                <img src="resources/images/a.jpg" alt="...">
-                <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p><a href="#" >Button</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-6">
-            <div class="thumbnail">
-                <img src="resources/images/a.jpg" alt="...">
-                <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p><a href="#" >Button</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-6">
-            <div class="thumbnail">
-                <img src="resources/images/a.jpg" alt="...">
-                <div class="caption">
-                    <h3>Thumbnail label</h3>
+                    <h5>Thumbnail label</h5>
                     <p><a href="#" >Button</a></p>
                 </div>
             </div>
